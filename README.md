@@ -6,3 +6,4 @@
 * [Project2](https://github.com/vanvae/MA6628/blob/master/Assignments_Prj02.ipynb "BSM asian option value")
 * [Project3]()
 * [Project4](https://github.com/vanvae/MA6628/blob/master/Assignments_Prj04.ipynb "BSM implied volatility")
+* [Project5](https://github.com/vanvae/MA6628/blob/master/Assignments_Prj04.ipynb "Euler Method")
